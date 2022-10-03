@@ -18,6 +18,7 @@ free(grid[height]);
 free(grid);
 }
 }
+
 /**
  * strtow - function that splits a string into words.
  * @str: string.
